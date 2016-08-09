@@ -1,6 +1,6 @@
 #include
 int main()
 {
-	printf("esta es una prueba");
+	printf("esta es una prueb haha");
 	return 0;
 }
